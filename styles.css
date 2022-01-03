@@ -14,6 +14,22 @@
     background-color: yellowgreen;
 }
 
+.main-img {
+    border: 5px solid red;
+}
+
+.rice-img {
+    border: 5px solid cyan;
+}
+
+.pie {
+    border: 5px solid black;
+}
+
+.wings {
+    border: 5px solid pink;
+}
+
 body {
     text-align: center;
 }
