@@ -1,7 +1,27 @@
-* {
+.main {
     background-color: aqua;
+}
+
+.rice {
+    background-color: rgb(221, 128, 61);
+}
+
+.pot-pie {
+    background-color: rgb(250, 35, 78);
+}
+
+.chicken-wings {
+    background-color: yellowgreen;
 }
 
 body {
     text-align: center;
+}
+
+ul, ol {
+    padding-left: 0;
+}
+
+ul li, ol li {
+    list-style-position: inside;
 }
